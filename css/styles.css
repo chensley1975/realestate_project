@@ -1,0 +1,41 @@
+.jumbotron {
+  margin: 0;
+  padding: 1.75rem;
+  background-image: linear-gradient(to right, #283747, #2980B9, #1AB4E5);
+  color: white;
+}
+
+footer {
+  background: #283747;
+  color: white; }
+
+  img {
+    width: 15rem;
+  }
+
+  .navbar-dark {
+    background-color: #E54B1A;
+  }
+
+  .row-content {
+    padding: 3rem, 0;
+    min-height: 12rem;
+  }
+
+  .site-footer {
+    background-image: linear-gradient(white, #2980B9);
+    color: #283747;
+  }
+
+  .list-items {
+    color: #283747;
+  }
+
+  .fa-lg {
+    padding: 1rem;
+  }
+
+  .fa-youtube {
+    background: #DF0101;
+    color: white;
+  }
